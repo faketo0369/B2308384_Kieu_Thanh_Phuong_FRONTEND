@@ -5,4 +5,4 @@
       <router-link to="/">trang chủ.</router-link>
     </p>
   </div>
-</template>
+</template>npm i vee-validate yup
